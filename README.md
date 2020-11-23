@@ -12,13 +12,13 @@ This repository contains a collection of [Homebrew](http://mxcl.github.com/homeb
 Add this tap to your Brew:
 
 ```console
-$ brew tap kekeniker/tap
+$ brew tap KeisukeYamashita/tap
 ```
 
 Next, draft from the tap:
 
 ```
-brew install kekeniker/tap/{name}
+brew install KeisukeYamashita/tap/{name}
 ```
 
 ## Author
