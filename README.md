@@ -6,6 +6,8 @@ This repository contains a collection of [Homebrew](http://mxcl.github.com/homeb
 
 * [biko](https://github.com/KeisukeYamashita/biko): CLI to jump to your target web page
     * Install: `brew install KeisukeYamashita/tap/biko`
+* [dobo](https://github.com/KeisukeYamashita/dobo): CLI to install dockerignore templates
+    * Install `brew install KeisukeYamashita/tap/dobo`
 
 ## Usage
 
