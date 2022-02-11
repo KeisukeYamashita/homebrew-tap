@@ -1,4 +1,4 @@
-class GclCtx < Formula
+class Gclctx < Formula
   desc "Fast gcloud account switcher"
   homepage ""
   url "https://github.com/KeisukeYamashita/gclctx/archive/v0.0.1.tar.gz"
